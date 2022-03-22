@@ -2,6 +2,10 @@
 
 This simple microservice lists random courses in JSON format.
 
+The final image can be downloaded from Docker hub: 
+
+    docker push gulangurman/dotnet6-microservice:1.0
+    
 # Build the image
 
 Build the container image.
